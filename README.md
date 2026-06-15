@@ -72,15 +72,35 @@ See CITATION.cff for citation information.
 Kumari, Archana, Ojha, Pushpanjali R., Bishnu, Partha Sarathi, Bhattacharjee, Vandana, Hussain, Ahmed, Baghel, Deepanshu, Kumar, Dewesh, Mahto, Sunil Kumar, & Kumar, Amit. (2026). CBC Benchmark Dataset for Anemia Classification and Severity Assessment (Version 1.0) [Data set]. GitHub. https://github.com/deepsciencebit/CBC-Benchmark-Dataset
 
 ## Contributors
-- Archana Kumari
-- Pushpanjali R Ojha
-- Partha Sarathi Bishnu
-- V. Bhattacharjee
-- Ahmed Hussain
-- Deepanshu Baghel
-- Dewesh Kumar
-- Sunil Kumar Mahto
-- Amit Kumar
+### Contributors and Affiliations
+
+* **Archana Kumari**
+  Department of Obstetrics and Gynaecology, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
+
+* **Pushpanjali R. Ojha**
+  Department of Pathology, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
+
+* **Partha Sarathi Bishnu**
+  Department of Computer Science and Engineering, Birla Institute of Technology (BIT Mesra), Ranchi, Jharkhand, India
+
+* **Vandana Bhattacharjee**
+  Department of Computer Science and Engineering, Birla Institute of Technology (BIT Mesra), Ranchi, Jharkhand, India
+
+* **Dewesh Kumar**
+  Department of Community Medicine, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
+
+* **Sunil Kumar Mahto**
+  Department of Pathology, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
+
+* **Amit Kumar**
+  Department of Laboratory Medicine, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
+
+* **Ahmed Hussain**
+  Department of Obstetrics and Gynaecology, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
+
+* **Deepanshu Baghel**
+  Department of Computer Science and Engineering, Birla Institute of Technology (BIT Mesra), Ranchi, Jharkhand, India
+
 
 ## Future Releases
 Additional numerical datasets, image datasets, benchmark protocols, and baseline machine learning models may be added in future releases.
