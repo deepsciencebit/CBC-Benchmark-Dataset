@@ -12,46 +12,46 @@ This repository contains a de-identified benchmark dataset derived from clinical
 
 ## Features: Features Included
 _Clinical Features_
-Obs Score L
-LMP known
-USG
-POG (in weeks)
-History of blood transfusion during pregnancy
-Family history of hemoglobinopathy
-Dietary habits
-History of any type of allergy
-History of iron supplementation
-Pulse (bpm)
-Icterus
-Pallor
-Edema
+- Obs Score L
+- LMP known
+- USG
+- POG (in weeks)
+- History of blood transfusion during pregnancy
+- Family history of hemoglobinopathy
+- Dietary habits
+- History of any type of allergy
+- History of iron supplementation
+- Pulse (bpm)
+- Icterus
+- Pallor
+- Edema
 
 _Hematological Features_
-TRBC (in 10^6 /microL)
-Hb (in gm/dL)
-PCV (%)
-MCV (in fL)
-MCH (in pg)
-MCHC (in gm/dL)
-RDW (%)
-Reticulocyte count (in 10^6 /microL)
-Reticulocyte %
-Serum iron (in microg/dL)
-TIBC (in microg/dL)
-Transferrin saturation (%)
-Biochemical Features
-Total bilirubin (mg/dL)
-Direct bilirubin (mg/dL)
-Indirect bilirubin (mg/dL)
-Urea (mg/dL)
-Creatinine (mg/dL)
+- TRBC (in 10^6 /microL)
+- Hb (in gm/dL)
+- PCV (%)
+- MCV (in fL)
+- MCH (in pg)
+- MCHC (in gm/dL)
+- RDW (%)
+- Reticulocyte count (in 10^6 /microL)
+- Reticulocyte %
+- Serum iron (in microg/dL)
+- TIBC (in microg/dL)
+- Transferrin saturation (%)
+- Biochemical Features
+- Total bilirubin (mg/dL)
+- Direct bilirubin (mg/dL)
+- Indirect bilirubin (mg/dL)
+- Urea (mg/dL)
+- Creatinine (mg/dL)
 
 _Blood Pressure Features_
-SBP (Systolic Blood Pressure)
-DBP (Diastolic Blood Pressure)
+- SBP (Systolic Blood Pressure)
+- DBP (Diastolic Blood Pressure)
 
 _Target Variable_
-Severity of anemia (on the basis of Hb)
+- Severity of anemia (on the basis of Hb)
 
 ## Data Preprocessing
 - Feature selection
