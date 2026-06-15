@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as follows."
+title: "CBC Benchmark Dataset for Anemia Classification and Severity Assessment"
+version: "1.0.0"
+type: dataset
+
+authors:
+
+* family-names: Kumari
+  given-names: Archana
+  orcid: "0000-0001-8238-9280"
+
+* family-names: Ojha
+  given-names: Pushpanjali R.
+  orcid: "0009-0007-4424-4989"
+
+* family-names: Bishnu
+  given-names: Partha Sarathi
+  orcid: "0000-0001-5143-6195"
+
+* family-names: Bhattacharjee
+  given-names: Vandana
+  orcid: "0000-0002-0680-2691"
+
+* family-names: Baghel
+  given-names: Deepanshu
+  orcid: "0009-0007-4174-7695"
+
+* family-names: Hussain
+  given-names: Ahmed
+  orcid: "0009-0009-4569-2753"
+
+date-released: "2026-06-15"
+
+license: "CC-BY-4.0"
+
+repository-code: "https://github.com/USERNAME/CBC-Benchmark-Dataset"
+
+keywords:
+
+* anemia
+* CBC
+* complete blood count
+* pregnancy
+* hematology
+* benchmark dataset
+* machine learning
+* maternal health
+
+abstract: >
+A de-identified benchmark dataset containing complete blood count
+and related clinical parameters collected from pregnant women for
+anemia classification, severity assessment, and machine learning research.
+
+doi: "TO_BE_UPDATED_AFTER_ZENODO_RELEASE"
