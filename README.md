@@ -74,31 +74,31 @@ Kumari, Archana, Ojha, Pushpanjali R., Bishnu, Partha Sarathi, Bhattacharjee, Va
 ## Contributors
 ### Contributors and Affiliations
 
-* **Archana Kumari**
+* **Dr. Archana Kumari**,
   Department of Obstetrics and Gynaecology, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
 
-* **Pushpanjali R. Ojha**
+* **Dr. Pushpanjali R. Ojha**,
   Department of Pathology, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
 
-* **Partha Sarathi Bishnu**
+* **Dr. Partha Sarathi Bishnu**,
   Department of Computer Science and Engineering, Birla Institute of Technology (BIT Mesra), Ranchi, Jharkhand, India
 
-* **Vandana Bhattacharjee**
+* **Dr. Vandana Bhattacharjee**,
   Department of Computer Science and Engineering, Birla Institute of Technology (BIT Mesra), Ranchi, Jharkhand, India
 
-* **Dewesh Kumar**
+* **Dr. Dewesh Kumar**,
   Department of Community Medicine, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
 
-* **Sunil Kumar Mahto**
+* **Dr. Sunil Kumar Mahto**,
   Department of Pathology, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
 
-* **Amit Kumar**
+* **Dr. Amit Kumar**,
   Department of Laboratory Medicine, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
 
-* **Ahmed Hussain**
+* **Dr. Ahmed Hussain**,
   Department of Obstetrics and Gynaecology, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
 
-* **Deepanshu Baghel**
+* **Mr. Deepanshu Baghel**,
   Department of Computer Science and Engineering, Birla Institute of Technology (BIT Mesra), Ranchi, Jharkhand, India
 
 
