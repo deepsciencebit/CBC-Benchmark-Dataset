@@ -15,7 +15,7 @@ _Clinical Features_
 - Obs Score L
 - LMP known
 - USG
-- POG (in weeks)
+- POG (period of gestation or duration of pregnancy in weeks)
 - History of blood transfusion during pregnancy
 - Family history of hemoglobinopathy
 - Dietary habits
