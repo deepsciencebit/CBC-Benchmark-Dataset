@@ -6,7 +6,7 @@ This repository contains a de-identified benchmark dataset derived from clinical
 ## Dataset Summary
 - Total Samples: 473
 - Total Attributes: 37
-- Target Variable: Severity of anemia (on the basis of Hb)
+- Target Variable: Severity of anemia 
 - Missing Value Handling: MICE + ExtraTreesRegressor
 - Format: CSV
 
@@ -51,7 +51,7 @@ _Blood Pressure Features_
 - DBP (Diastolic Blood Pressure)
 
 _Target Variable_
-- Severity of anemia (on the basis of Hb)
+- Severity of anemia 
 
 ## Data Preprocessing
 - Feature selection
