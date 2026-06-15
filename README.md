@@ -29,13 +29,18 @@ Code: MIT License
 ## Citation
 See CITATION.cff for citation information.
 
+Kumari, Archana, Ojha, Pushpanjali R., Bishnu, Partha Sarathi, Bhattacharjee, Vandana, Hussain, Ahmed, Baghel, Deepanshu, Kumar, Dewesh, Mahto, Sunil Kumar, & Kumar, Amit. (2026). CBC Benchmark Dataset for Anemia Classification and Severity Assessment (Version 1.0) [Data set]. GitHub. https://github.com/USERNAME/CBC-Benchmark-Dataset
+
 ## Contributors
 - Archana Kumari
-- Pushpanjali Ojha
+- Pushpanjali R Ojha
 - Partha Sarathi Bishnu
 - V. Bhattacharjee
-- Ahmed
-- Deepanshu
+- Ahmed Hussain
+- Deepanshu Baghel
+- Dewesh Kumar
+- Sunil Kumar Mahto
+- Amit Kumar
 
 ## Future Releases
 Additional numerical datasets, image datasets, benchmark protocols, and baseline machine learning models may be added in future releases.
