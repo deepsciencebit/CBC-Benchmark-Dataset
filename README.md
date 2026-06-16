@@ -62,6 +62,13 @@ _Target Variable_
 - MICE-based imputation using ExtraTreesRegressor
 - Data validation and consistency checks
 
+## About rawData.csv
+- rawData.csv contains 473 de-identified participant records and 143 attributes collected from multiple clinical sites.
+- The dataset represents the merged raw data after removal of personal and sensitive identifiers.
+- The dataset has not undergone preprocessing, feature selection, or missing-value imputation.
+- Missing values, incomplete entries, and original data inconsistencies are preserved as collected.
+- This raw dataset serves as the source data for subsequent preprocessing, quality control, and benchmark dataset creation.
+
 ## License
 Dataset: CC BY 4.0
 Code: MIT License
