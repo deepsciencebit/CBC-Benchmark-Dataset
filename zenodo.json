@@ -1,0 +1,71 @@
+{
+  "title": "CBC Benchmark Dataset for Anemia Classification and Severity Assessment",
+  "version": "1.0.0",
+  "upload_type": "dataset",
+  "description": "A de-identified benchmark dataset containing complete blood count (CBC) and related clinical parameters collected from pregnant women for anemia classification and severity assessment. The repository includes raw and preprocessed tabular data, metadata reports, preprocessing code, and documentation to support reproducible machine learning and hematological research.",
+  "creators": [
+    {
+      "name": "Kumari, Archana",
+      "affiliation": "Department of Obstetrics and Gynaecology, Rajendra Institute of Medical Sciences, Ranchi, India",
+      "orcid": "0000-0001-8238-9280"
+    },
+    {
+      "name": "Ojha, Pushpanjali R.",
+      "affiliation": "Department of Pathology, Rajendra Institute of Medical Sciences, Ranchi, India",
+      "orcid": "0009-0007-4424-4989"
+    },
+    {
+      "name": "Bishnu, Partha Sarathi",
+      "affiliation": "Department of Computer Science and Engineering, Birla Institute of Technology Mesra, Ranchi, India",
+      "orcid": "0000-0001-5143-6195"
+    },
+    {
+      "name": "Bhattacharjee, Vandana",
+      "affiliation": "Department of Computer Science and Engineering, Birla Institute of Technology Mesra, Ranchi, India",
+      "orcid": "0000-0002-0680-2691"
+    },
+    {
+      "name": "Hussain, Ahmed",
+      "affiliation": "Department of Obstetrics and Gynaecology, Rajendra Institute of Medical Sciences, Ranchi, India",
+      "orcid": "0009-0009-4569-2753"
+    },
+    {
+      "name": "Baghel, Deepanshu",
+      "affiliation": "Department of Computer Science and Engineering, Birla Institute of Technology Mesra, Ranchi, India",
+      "orcid": "0009-0007-4174-7695"
+    },
+    {
+      "name": "Kumar, Dewesh",
+      "affiliation": "Department of Community Medicine, Rajendra Institute of Medical Sciences, Ranchi, India"
+    },
+    {
+      "name": "Mahto, Sunil Kumar",
+      "affiliation": "Department of Pathology, Rajendra Institute of Medical Sciences, Ranchi, India"
+    },
+    {
+      "name": "Kumar, Amit",
+      "affiliation": "Department of Laboratory Medicine, Rajendra Institute of Medical Sciences, Ranchi, India"
+    }
+  ],
+  "keywords": [
+    "anemia",
+    "complete blood count",
+    "CBC",
+    "pregnancy",
+    "hematology",
+    "benchmark dataset",
+    "machine learning",
+    "maternal health",
+    "clinical data"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/USERNAME/CBC-Benchmark-Dataset",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "The raw dataset contains missing values and has not undergone preprocessing or imputation. The preprocessed dataset was generated after feature selection, de-identification, missing-value standardization, and MICE-based imputation using ExtraTreesRegressor."
+}
