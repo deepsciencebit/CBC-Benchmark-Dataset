@@ -100,7 +100,7 @@ Kumari, Archana, Ojha, Pushpanjali R., Bishnu, Partha Sarathi, Bhattacharjee, Va
 * **Dr. Amit Kumar**,
   Department of Laboratory Medicine, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
 
-  * **Dr. Rajluxmi Tubid**,
+* **Dr. Rajluxmi Tubid**,
   Department of Obstetrics and Gynaecology, Saheed Nirmal Mahto Medical College, Dhanbad, Jharkhand, India
 
 * **Dr. Sunil Kumar Verma**,
