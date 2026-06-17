@@ -1,3 +1,4 @@
+```yaml
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as follows."
 title: "CBC Benchmark Dataset for Anemia Classification and Severity Assessment"
@@ -5,51 +6,88 @@ version: "1.0.0"
 type: dataset
 
 authors:
+  - family-names: Kumari
+    given-names: Archana
+    orcid: "https://orcid.org/0000-0001-8238-9280"
 
-* family-names: Kumari
-  given-names: Archana
-  orcid: "0000-0001-8238-9280"
+  - family-names: Ojha
+    given-names: Pushpanjali R.
+    orcid: "https://orcid.org/0009-0007-4424-4989"
 
-* family-names: Ojha
-  given-names: Pushpanjali R.
-  orcid: "0009-0007-4424-4989"
+  - family-names: Bishnu
+    given-names: Partha Sarathi
+    orcid: "https://orcid.org/0000-0001-5143-6195"
 
-* family-names: Bishnu
-  given-names: Partha Sarathi
-  orcid: "0000-0001-5143-6195"
+  - family-names: Bhattacharjee
+    given-names: Vandana
+    orcid: "https://orcid.org/0000-0002-0680-2691"
 
-* family-names: Bhattacharjee
-  given-names: Vandana
-  orcid: "0000-0002-0680-2691"
+  - family-names: Kumar
+    given-names: Dewesh
 
-* family-names: Baghel
-  given-names: Deepanshu
-  orcid: "0009-0007-4174-7695"
+  - family-names: Mahto
+    given-names: Sunil Kumar
 
-* family-names: Hussain
-  given-names: Ahmed
-  orcid: "0009-0009-4569-2753"
+  - family-names: Kumar
+    given-names: Amit
+
+  - family-names: Tubid
+    given-names: Rajluxmi
+
+  - family-names: Verma
+    given-names: Sunil Kumar
+
+  - family-names: Sahu
+    given-names: Monalisha
+
+  - family-names: Kundu
+    given-names: Manas Kumar
+
+  - family-names: Galhotra
+    given-names: Abhiruchi
+
+  - family-names: Chandrakar
+    given-names: Aditi
+
+  - family-names: Jindal
+    given-names: Ashok
+    name-suffix: "Retd."
+
+  - family-names: Choudhary
+    given-names: Laxmikant
+
+  - family-names: Singh
+    given-names: Vandita
+
+  - family-names: Hussain
+    given-names: Ahmed
+    orcid: "https://orcid.org/0009-0009-4569-2753"
+
+  - family-names: Baghel
+    given-names: Deepanshu
+    orcid: "https://orcid.org/0009-0007-4174-7695"
 
 date-released: "2026-06-15"
 
 license: "CC-BY-4.0"
 
-repository-code: "https://github.com/USERNAME/CBC-Benchmark-Dataset"
+repository-code: "https://github.com/deepsciencebit/CBC-Benchmark-Dataset"
 
 keywords:
-
-* anemia
-* CBC
-* complete blood count
-* pregnancy
-* hematology
-* benchmark dataset
-* machine learning
-* maternal health
+  - anemia
+  - CBC
+  - complete blood count
+  - pregnancy
+  - hematology
+  - benchmark dataset
+  - machine learning
+  - maternal health
 
 abstract: >
-A de-identified benchmark dataset containing complete blood count
-and related clinical parameters collected from pregnant women for
-anemia classification, severity assessment, and machine learning research.
+  A de-identified benchmark dataset containing complete blood count
+  and related clinical parameters collected from pregnant women for
+  anemia classification, severity assessment, and machine learning research.
 
-doi: "TO_BE_UPDATED_AFTER_ZENODO_RELEASE"
+doi: "10.5281/zenodo.20726722"
+url: "https://zenodo.org/records/20726722"
+```
