@@ -1,7 +1,7 @@
 # CBC Benchmark Dataset for Anemia Classification and Severity Assessment
 
 ## Overview
-This repository contains a de-identified benchmark dataset derived from clinical and laboratory investigations of pregnant women for anemia classification, severity assessment, hematological analysis, and machine learning research.
+This repository contains a de-identified benchmark dataset derived from clinical and laboratory investigations of pregnant women for anemia classification, severity assessment, hematological analysis, and machine learning research. Data upto: 1st June 2025 to 11th June 2026.
 
 ## Dataset Summary (CBC_Datasets.csv)
 - Total Samples: 473
