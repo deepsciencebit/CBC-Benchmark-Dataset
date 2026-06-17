@@ -76,8 +76,7 @@ Code: MIT License
 ## Citation
 See CITATION.cff for citation information.
 
-Kumari, Archana, Ojha, Pushpanjali R., Bishnu, Partha Sarathi, Bhattacharjee, Vandana, Hussain, Ahmed, Baghel, Deepanshu, Kumar, Dewesh, Mahto, Sunil Kumar, & Kumar, Amit. (2026). CBC Benchmark Dataset for Anemia Classification and Severity Assessment (Version 1.0) [Data set]. GitHub. https://github.com/deepsciencebit/CBC-Benchmark-Dataset, DOI: 10.5281/zenodo.20726722,
-https://zenodo.org/records/20726722
+Kumari, Archana, Ojha, Pushpanjali R., Bishnu, Partha Sarathi, Bhattacharjee, Vandana, Kumar, Dewesh, Mahto, Sunil Kumar, Kumar, Amit, Tubid, Rajluxmi, Verma, Sunil Kumar, Sahu, Monalisha, Kundu, Manas Kumar, Galhotra, Abhiruchi, Chandrakar, Aditi, Jindal, Ashok, Choudhary, Laxmikant, Singh, Vandita, Hussain, Ahmed, & Baghel, Deepanshu. (2026). CBC Benchmark Dataset for Anemia Classification and Severity Assessment (Version 1.0), GitHub. https://github.com/deepsciencebit/CBC-Benchmark-Dataset, DOI: 10.5281/zenodo.20726722, https://zenodo.org/records/20726722
 
 ## Contributors
 * **Dr. Archana Kumari**,
@@ -100,6 +99,33 @@ https://zenodo.org/records/20726722
 
 * **Dr. Amit Kumar**,
   Department of Laboratory Medicine, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
+
+  * **Dr. Rajluxmi Tubid**,
+  Department of Obstetrics and Gynaecology, Saheed Nirmal Mahto Medical College, Dhanbad, Jharkhand, India
+
+* **Dr. Sunil Kumar Verma**,
+  Department of Biochemistry, Saheed Nirmal Mahto Medical College, Dhanbad, Jharkhand, India
+
+* **Dr. Monalisha Sahu**,
+  Department of Occupational Health, All India Institute of Hygiene and Public Health, Kolkata, West Bengal, India
+
+* **Dr. Manas Kumar Kundu**,
+  Department of Occupational Health, All India Institute of Hygiene and Public Health, Kolkata, West Bengal, India
+
+* **Dr. Abhiruchi Galhotra**,
+  Department of Community Medicine, All India Institute of Medical Sciences, Raipur, Chhattisgarh, India
+
+* **Dr. Aditi Chandrakar**,
+  Department of Community Medicine, All India Institute of Medical Sciences, Raipur, Chhattisgarh, India
+
+* **Lt. Gen. Ashok Jindal (Retd.)**,
+  Department of Community Medicine, All India Institute of Medical Sciences, Raipur, Chhattisgarh, India
+
+* **Dr. Laxmikant Choudhary**,
+  Department of Community Medicine, All India Institute of Medical Sciences, Raipur, Chhattisgarh, India
+
+* **Dr. Vandita Singh**,
+  Department of Obstetrics and Gynecology, Sadar Hospital, Ranchi, Jharkhand, India
 
 * **Dr. Ahmed Hussain**,
   Department of Obstetrics and Gynaecology, Rajendra Institute of Medical Sciences (RIMS), Ranchi, Jharkhand, India
